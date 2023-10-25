@@ -28,3 +28,6 @@ futo_voice_input:
 
 yuzu:
   - org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity
+
+facebook:
+  - com.facebook/com.facebook
