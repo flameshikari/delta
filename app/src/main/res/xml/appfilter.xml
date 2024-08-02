@@ -5906,7 +5906,7 @@
 	<item component="ComponentInfo{com.marmalade.monopoly/com.unity3d.player.UnityPlayerActivity}" drawable="monopoly" />
 	<item component="ComponentInfo{com.marmalade.tickettoride/com.unity3d.player.UnityPlayerActivity}" drawable="ticket_to_tide" />
 	<item component="ComponentInfo{com.marmalade.tickettoride/com.unity3d.player.UnityPlayerActivity}" drawable="ticket_to_ride" />
-<item component="ComponentInfo{com.marotidev.Overmorrow/com.example.overmorrow.MainActivity}" drawable="overmorrow" />
+	<item component="ComponentInfo{com.marotidev.Overmorrow/com.example.overmorrow.MainActivity}" drawable="overmorrow" />
 	<item component="ComponentInfo{com.marrow/com.marrow.ui.activities.onboarding.splash.SplashActivity}" drawable="marrow" />
 	<item component="ComponentInfo{com.marsvard.stickermakerforwhatsapp/com.marsvard.stickermakerforwhatsapp.main.MainActivity}" drawable="sticker_maker" />
 	<item component="ComponentInfo{com.martinmagni.fancade/com.martinmagni.fancade.Fancade}" drawable="fancade" />
@@ -7306,7 +7306,7 @@
 	<item component="ComponentInfo{com.popularapp.thirtydayfitnesschallenge/com.popularapp.thirtydayfitnesschallenge.activity.StartActivity}" drawable="_30_day_fitness_challenge" />
 	<item component="ComponentInfo{com.popularapp.thirtydayfitnesschallenge/com.popularapp.thirtydayfitnesschallenge.revise.guide.splash.SplashActivity}" drawable="_30_day_fitness_challenge" />
 	<item component="ComponentInfo{com.popularapp.thirtydayfitnesschallengepro/com.popularapp.thirtydayfitnesschallengepro.activity.StartActivity}" drawable="_30_day_fitness_challenge" />
-<item component="ComponentInfo{com.popularapp.videodownloaderforinstagram/com.popularapp.videodownloaderforinstagram.MainTabActivity}" drawable="video_downloader_ig" />
+	<item component="ComponentInfo{com.popularapp.videodownloaderforinstagram/com.popularapp.videodownloaderforinstagram.MainTabActivity}" drawable="video_downloader_ig" />
 	<item component="ComponentInfo{com.porg.batt/com.porg.batt.MainActivity}" drawable="batt" />
 	<item component="ComponentInfo{com.porg.blocker/com.porg.blocker.MainActivity}" drawable="disconnect" />
 	<item component="ComponentInfo{com.portableandroid.classicboy/com.portableandroid.classicboy.EntryActivity}" drawable="classicboy" />
@@ -12825,7 +12825,7 @@
 	<item component="ComponentInfo{org.andresoviedo.dddmodel2/org.andresoviedo.app.model3D.MainActivity}" drawable="_3d_model_viewer" />
 	<item component="ComponentInfo{org.android.kunulee.podsmaster/org.android.kunulee.podsmaster.MainActivity}" drawable="podroid" />
 	<item component="ComponentInfo{org.androidlabs.applistbackup/org.androidlabs.applistbackup.MainActivity}" drawable="applistbackup" />
-<item component="ComponentInfo{org.andstatus.app/org.andstatus.app.FirstActivity}" drawable="andstatus" />
+	<item component="ComponentInfo{org.andstatus.app/org.andstatus.app.FirstActivity}" drawable="andstatus" />
 	<item component="ComponentInfo{org.andstatus.game2048/org.andstatus.game2048.MainActivity}" drawable="_2048" />
 	<item component="ComponentInfo{org.andstatus.game2048/org.andstatus.game2048.MyMainActivity}" drawable="_2048" />
 	<item component="ComponentInfo{org.andstatus.todoagenda/org.andstatus.todoagenda.MainActivity}" drawable="todo_agenda" />
