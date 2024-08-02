@@ -2,9 +2,9 @@
 <resources>
 	<version>1</version>
 	<!--Please avoid automatically sorting categories to keep the current order in place-->
-	<category title="New" />
-
-	<category title="Alts" />
+	<category title="New">
+	</category>
+	<category title="Alts">
 		<item drawable="_1password_alt_1" />
 		<item drawable="_4pda_alt_1" />
 		<item drawable="_10_bit_clock_widget_alt_1" />
@@ -1040,8 +1040,8 @@
 		<item drawable="youtube_vanced_alt_3" />
 		<item drawable="youtube_vanced_alt_4" />
 		<item drawable="zello_alt_1" />
-
-	<category title="Calendar" />
+	</category>
+	<category title="Calendar">
 		<item drawable="calendar" />
 		<item drawable="calendar_1" />
 		<item drawable="calendar_2" />
@@ -1458,8 +1458,8 @@
 		<item drawable="today_calendar_29" />
 		<item drawable="today_calendar_30" />
 		<item drawable="today_calendar_31" />
-
-	<category title="Folders" />
+	</category>
+	<category title="Folders">
 		<item drawable="folder_blue" />
 		<item drawable="folder_brown" />
 		<item drawable="folder_camera" />
@@ -1480,8 +1480,8 @@
 		<item drawable="folder_teal" />
 		<item drawable="folder_world" />
 		<item drawable="folder_yellow" />
-
-	<category title="Google" />
+	</category>
+	<category title="Google">
 		<item drawable="android" />
 		<item drawable="android_auto" />
 		<item drawable="android_device_policy" />
@@ -1610,8 +1610,8 @@
 		<item drawable="youtube_music" />
 		<item drawable="youtube_studio" />
 		<item drawable="youtube_tv" />
-
-	<category title="System" />
+	</category>
+	<category title="System">
 		<item drawable="aosp_browser" />
 		<item drawable="aosp_keyboard" />
 		<item drawable="aosp_mail" />
@@ -1646,8 +1646,8 @@
 		<item drawable="video" />
 		<item drawable="voicemail" />
 		<item drawable="weather" />
-
-	<category title="#" />
+	</category>
+	<category title="#">
 		<item drawable="_0h_h1" />
 		<item drawable="_0h_n0" />
 		<item drawable="_1_second_everyday" />
@@ -1749,8 +1749,8 @@
 		<item drawable="_6180_the_moon" />
 		<item drawable="_9292" />
 		<item drawable="_10000000" />
-
-	<category title="A" />
+	</category>
+	<category title="A">
 		<item drawable="a2k_kustom" />
 		<item drawable="a__calendar" />
 		<item drawable="a_better_camera" />
@@ -2531,8 +2531,8 @@
 		<item drawable="ayugram" />
 		<item drawable="az_screen_recorder" />
 		<item drawable="azur_lane" />
-
-	<category title="B" />
+	</category>
+	<category title="B">
 		<item drawable="b4ufly" />
 		<item drawable="b612" />
 		<item drawable="baba_is_you" />
@@ -3027,8 +3027,8 @@
 		<item drawable="byedpi" />
 		<item drawable="bykea" />
 		<item drawable="byte_video" />
-
-	<category title="C" />
+	</category>
+	<category title="C">
 		<item drawable="c2_password" />
 		<item drawable="c24_bank" />
 		<item drawable="c_locker" />
@@ -3615,8 +3615,8 @@
 		<item drawable="cytus" />
 		<item drawable="cytus_ii" />
 		<item drawable="cz" />
-
-	<category title="D" />
+	</category>
+	<category title="D">
 		<item drawable="d4dj_groovy_mix" />
 		<item drawable="d_and_d_beyond" />
 		<item drawable="d_payment" />
@@ -4034,8 +4034,8 @@
 		<item drawable="dynamix" />
 		<item drawable="dyson_link" />
 		<item drawable="dzienniczek_vulcan" />
-
-	<category title="E" />
+	</category>
+	<category title="E">
 		<item drawable="e3dc_portal" />
 		<item drawable="e1547" />
 		<item drawable="e_cidadao_saude" />
@@ -4273,8 +4273,8 @@
 		<item drawable="eye__em" />
 		<item drawable="eye_in_sky" />
 		<item drawable="ez_notes" />
-
-	<category title="F" />
+	</category>
+	<category title="F">
 		<item drawable="f45_training" />
 		<item drawable="f_colors" />
 		<item drawable="f_droid" />
@@ -4668,8 +4668,8 @@
 		<item drawable="fwallet" />
 		<item drawable="fx" />
 		<item drawable="fx_racer" />
-
-	<category title="G" />
+	</category>
+	<category title="G">
 		<item drawable="g1" />
 		<item drawable="g1_test" />
 		<item drawable="g_droid" />
@@ -4947,8 +4947,8 @@
 		<item drawable="gwent" />
 		<item drawable="gyawun" />
 		<item drawable="gymroutines" />
-
-	<category title="H" />
+	</category>
+	<category title="H">
 		<item drawable="h_and_m" />
 		<item drawable="habit_browser" />
 		<item drawable="habit_builder" />
@@ -5213,8 +5213,8 @@
 		<item drawable="hypocam" />
 		<item drawable="hz_refresher" />
 		<item drawable="the_home_depot" />
-
-	<category title="I" />
+	</category>
+	<category title="I">
 		<item drawable="i2p" />
 		<item drawable="i2pd" />
 		<item drawable="i_am_a_gryphon" />
@@ -5436,8 +5436,8 @@
 		<item drawable="izi" />
 		<item drawable="izly" />
 		<item drawable="izzy_on_droid" />
-
-	<category title="J" />
+	</category>
+	<category title="J">
 		<item drawable="j2me_loader" />
 		<item drawable="j_and_j_7m_workout" />
 		<item drawable="jager" />
@@ -5521,8 +5521,8 @@
 		<item drawable="justnotes" />
 		<item drawable="justwatch" />
 		<item drawable="jw_library" />
-
-	<category title="K" />
+	</category>
+	<category title="K">
 		<item drawable="k19_player" />
 		<item drawable="k_nine_mail" />
 		<item drawable="k_plus" />
@@ -5716,8 +5716,8 @@
 		<item drawable="kyivstar" />
 		<item drawable="kyobo" />
 		<item drawable="kyocera_print" />
-
-	<category title="L" />
+	</category>
+	<category title="L">
 		<item drawable="la_banque_postale" />
 		<item drawable="la_bobine" />
 		<item drawable="la_mia_banca" />
@@ -6048,8 +6048,8 @@
 		<item drawable="lyricistant" />
 		<item drawable="lyrics_grabbr" />
 		<item drawable="lyssna" />
-
-	<category title="M" />
+	</category>
+	<category title="M">
 		<item drawable="m1_finance" />
 		<item drawable="m2_wear" />
 		<item drawable="m2wear" />
@@ -6800,8 +6800,8 @@
 		<item drawable="myuon" />
 		<item drawable="mywisely" />
 		<item drawable="myxl" />
-
-	<category title="N" />
+	</category>
+	<category title="N">
 		<item drawable="n1_info" />
 		<item drawable="n7player" />
 		<item drawable="n64_emulator_pro" />
@@ -7137,8 +7137,8 @@
 		<item drawable="nz_covid_tracer" />
 		<item drawable="nz_pass_verifier" />
 		<item drawable="nzb360" />
-
-	<category title="O" />
+	</category>
+	<category title="O">
 		<item drawable="o_key" />
 		<item drawable="oandbackupx" />
 		<item drawable="obb" />
@@ -7395,8 +7395,8 @@
 		<item drawable="oyo" />
 		<item drawable="ozon" />
 		<item drawable="ozon_bank" />
-
-	<category title="P" />
+	</category>
+	<category title="P">
 		<item drawable="p2play" />
 		<item drawable="p_tracker" />
 		<item drawable="pachli" />
@@ -7927,8 +7927,8 @@
 		<item drawable="pythono" />
 		<item drawable="pzizz" />
 		<item drawable="the_post_bank" />
-
-	<category title="Q" />
+	</category>
+	<category title="Q">
 		<item drawable="qanda" />
 		<item drawable="qantas" />
 		<item drawable="qbittorrent_manager" />
@@ -7993,8 +7993,8 @@
 		<item drawable="qwant" />
 		<item drawable="qwotable" />
 		<item drawable="squawker" />
-
-	<category title="R" />
+	</category>
+	<category title="R">
 		<item drawable="r_android_app_store" />
 		<item drawable="rabbit_rewards" />
 		<item drawable="rabobank" />
@@ -8302,8 +8302,8 @@
 		<item drawable="ryan" />
 		<item drawable="ryanair" />
 		<item drawable="rydoo" />
-
-	<category title="S" />
+	</category>
+	<category title="S">
 		<item drawable="s9_icon_pack" />
 		<item drawable="s_converter" />
 		<item drawable="sa7wa" />
@@ -9244,8 +9244,8 @@
 		<item drawable="system_ui_tuner" />
 		<item drawable="systemui_tuner" />
 		<item drawable="szkolny" />
-
-	<category title="T" />
+	</category>
+	<category title="T">
 		<item drawable="t2s" />
 		<item drawable="t3_arena" />
 		<item drawable="t_mobile" />
@@ -9791,8 +9791,8 @@
 		<item drawable="typeapp" />
 		<item drawable="typewise" />
 		<item drawable="tzlvt" />
-
-	<category title="U" />
+	</category>
+	<category title="U">
 		<item drawable="u_dictionary" />
 		<item drawable="u_tec" />
 		<item drawable="uae4all2" />
@@ -9932,8 +9932,8 @@
 		<item drawable="usps" />
 		<item drawable="uteka" />
 		<item drawable="uts" />
-
-	<category title="V" />
+	</category>
+	<category title="V">
 		<item drawable="v2ray_ang" />
 		<item drawable="v_live" />
 		<item drawable="va" />
@@ -10124,8 +10124,8 @@
 		<item drawable="vuze" />
 		<item drawable="vyprvpn" />
 		<item drawable="vysor" />
-
-	<category title="W" />
+	</category>
+	<category title="W">
 		<item drawable="wa_mods" />
 		<item drawable="wa_tweaker" />
 		<item drawable="wabbitemu" />
@@ -10412,8 +10412,8 @@
 		<item drawable="wykop" />
 		<item drawable="wynk" />
 		<item drawable="wyze" />
-
-	<category title="X" />
+	</category>
+	<category title="X">
 		<item drawable="x1_card" />
 		<item drawable="x_apm" />
 		<item drawable="x_kom" />
@@ -10478,8 +10478,8 @@
 		<item drawable="xumm" />
 		<item drawable="xvideos" />
 		<item drawable="xy_game_booster" />
-
-	<category title="Y" />
+	</category>
+	<category title="Y">
 		<item drawable="yacine_tv" />
 		<item drawable="yahoo_fantasy_sports" />
 		<item drawable="yahoo_finance" />
@@ -10616,8 +10616,8 @@
 		<item drawable="yuzu_browser" />
 		<item drawable="yuzu_emulator" />
 		<item drawable="yuzu_emulator_early_access" />
-
-	<category title="Z" />
+	</category>
+	<category title="Z">
 		<item drawable="z_archiver" />
 		<item drawable="zabihah" />
 		<item drawable="zaim" />
@@ -10737,4 +10737,5 @@
 		<item drawable="zwift_companion" />
 		<item drawable="zxtune" />
 		<item drawable="zynga_poker" />
+	</category>
 </resources>
