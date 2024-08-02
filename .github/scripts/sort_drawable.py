@@ -60,6 +60,8 @@ def main():
 
     root = ET.fromstring(transform(xml), parser=xml_parser) # transform to true XML format and convert it from string to ET
 
+    ET.indent(root, '\t')
+
     for category in root.findall('category'):
         items = category.findall('item') # get all items from category
         children = sorted(items, key=lambda item: item.get('drawable')) # sort category items by drawable name
