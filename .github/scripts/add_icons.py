@@ -172,7 +172,7 @@ if include_drawable:
     with open(drawable_files[0], 'r+', encoding='utf-8', newline=blank) as file:
         content = file.read()
         drawable_entry = f'<item drawable="{name}" />'
-        categories = ['<category title="New" />', f'<category title="{category}" />']
+        categories = ['<category title="New">', f'<category title="{category}">']
         if not re.search(categories[1], content, re.IGNORECASE): out.fail(f"{filename}: category '{category}' not found")
         if re.search(drawable_entry, content, re.IGNORECASE): out.warn(f"{filename}: drawable '{name}' exists")
         else:

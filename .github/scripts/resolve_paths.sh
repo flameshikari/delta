@@ -15,10 +15,10 @@ sd=$wd/.github/scripts
 id=$wd/app/src/main/res/drawable-nodpi
 vd=$wd/resources/vectors
 rq=$wd/contribs/requests.yml
-a1=$wd/app/src/main/assets/appfilter.xml
-a2=$wd/app/src/main/res/xml/appfilter.xml
-d1=$wd/app/src/main/assets/drawable.xml
-d2=$wd/app/src/main/res/xml/drawable.xml
+a1=$wd/app/src/main/res/xml/appfilter.xml
+a2=$wd/app/src/main/assets/appfilter.xml
+d1=$wd/app/src/main/res/xml/drawable.xml
+d2=$wd/app/src/main/assets/drawable.xml
 
 
 cat << EOF

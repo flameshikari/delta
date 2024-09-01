@@ -48,6 +48,8 @@ def main():
 
     root = ET.fromstring(xml, parser=xml_parser) # convert string to ET
 
+    ET.indent(root, '\t')
+
     scale = root[0] # save <scale/> tag
     root.remove(scale) # remove <scale/> tag
 

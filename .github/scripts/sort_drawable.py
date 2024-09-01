@@ -58,7 +58,9 @@ def main():
     with open(args.input) as file:
         xml = file.read().rstrip() # read drawable.xml to string
 
-    root = ET.fromstring(transform(xml), parser=xml_parser) # transform to true XML format and convert it from string to ET
+    root = ET.fromstring(xml, parser=xml_parser) # transform to true XML format and convert it from string to ET
+
+    ET.indent(root, '\t')
 
     for category in root.findall('category'):
         items = category.findall('item') # get all items from category
@@ -66,7 +68,7 @@ def main():
         category[:] = children # rewrite category items
 
     xml = ET.tostring(root, encoding='unicode', xml_declaration=True) # convert ET to string
-    xml = re.sub("'", '"', transform(xml)) # convert ' to " and transform to default format
+    xml = re.sub("'", '"', xml) # convert ' to " and transform to default format
 
     if args.output: # if -o passed
         try:
